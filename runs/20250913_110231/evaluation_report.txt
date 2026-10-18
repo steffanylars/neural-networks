@@ -1,0 +1,19 @@
+Fashion-MNIST LeNet-5 Evaluation Report
+==================================================
+Timestamp: 20250913_110231
+Test Accuracy: 0.8710
+Test Loss: 0.6615
+Top-3 Accuracy: 0.9859
+
+Per-Class Performance:
+--------------------------------------------------
+T-shirt/top     - Precision: 0.811, Recall: 0.827, F1: 0.819
+Trouser         - Precision: 0.989, Recall: 0.969, F1: 0.979
+Pullover        - Precision: 0.842, Recall: 0.814, F1: 0.828
+Dress           - Precision: 0.856, Recall: 0.865, F1: 0.860
+Coat            - Precision: 0.807, Recall: 0.793, F1: 0.800
+Sandal          - Precision: 0.932, Recall: 0.980, F1: 0.956
+Shirt           - Precision: 0.660, Recall: 0.614, F1: 0.636
+Sneaker         - Precision: 0.918, Recall: 0.949, F1: 0.933
+Bag             - Precision: 0.906, Recall: 0.984, F1: 0.943
+Ankle boot      - Precision: 0.975, Recall: 0.915, F1: 0.944
